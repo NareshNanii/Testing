@@ -1,0 +1,7 @@
+//a[text()='testing']/..
+
+//div[text()='Headphones&Speakers']/../div[3]
+
+//div[contains(text(),'October')]/../../td[2]//span[text()='2']
+
+//div[contains(text(),'OPEN BOX Samsung Galaxy A9 Pro 32GB Gold 4 GB RAM')]

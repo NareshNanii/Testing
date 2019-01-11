@@ -1,0 +1,17 @@
+
+<suite name="Suite" parallel = "tests">
+  <test name="Test1">
+  <parameter name="ip" value="192.168.43.189"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="New.Grid"/>
+    </classes>
+  </test> 
+  <test name="Test2">
+  <parameter name="ip" value="192.168.43.65"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="New.Grid"/>
+    </classes>
+  </test> 
+</suite> 
